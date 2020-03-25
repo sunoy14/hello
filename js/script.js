@@ -1,1 +1,1 @@
-alert('hello');
+document.body.style.color = 'orange';
